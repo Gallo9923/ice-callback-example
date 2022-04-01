@@ -1,0 +1,4 @@
+Servidor.Proxy=server:default -h localhost -p 10000
+Cliente.Servidor.Endpoints=tcp -p 9080
+
+Ice.Default.Host=localhost
